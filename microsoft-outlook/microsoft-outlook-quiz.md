@@ -1,7 +1,7 @@
 ## Microsoft Outlook
 
 #### 1. What can you set a reminder for in Outlook?
-- [ ] all of these answers
+- [X] all of these answers
 - [ ] contacts
 - [ ] email messages
 - [ ] appointments and meetings
@@ -270,13 +270,13 @@ C. Some people have already accepted, so you must cancel this meeting and create
 - [ ] To keep track of personal events in a work setting
 - [ ] To use a shared calendar with colleagues
 - [ ] To isolate meetings and important dates for a project team
-- [ ] To have a different view of your calendar
+- [X] To have a different view of your calendar
 
 #### 39. Under what conditions can you successfully recall a message?
 
 - [ ] Only when the recipient is also using Outlook
 - [ ] Only if the email is plain text without attachments
-- [ ] If the email si still in your outbox
+- [X] If the email si still in your outbox
 - [ ] If the email was sent within the past 24 hours
 
 #### 40. What rule can you create in View Settings to color code messages from a particular senderm such as your manager?
